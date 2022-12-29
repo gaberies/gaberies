@@ -2,7 +2,7 @@
 
 -EWU Graduated with a Bachelor's of Science in Computer Science
 
--Current software engineer at Huntwood | Custom Cabinets
+-Currently a technical consoltant at Infor
 
 -Contact me @ gaberies0@gmail.com
 <!---
